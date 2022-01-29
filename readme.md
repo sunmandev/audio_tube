@@ -7,7 +7,7 @@ by one of these commands commands:<br>
 $ pip install pytube<br>
 $ git clone git://github.com/pytube/pytube.git<br>
 $ curl -OL https://github.com/pytube/pytube/tarball/master<br><br>
-more info about how to install it:<br>
+more info about how to install pytube:<br>
 https://pytube.io/en/latest/user/install.html<br>
 Fourth, move the folder of the project to your web server and enjoy it!<br>
 
