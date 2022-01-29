@@ -1,4 +1,6 @@
 Audio tube is a PHP, Python script which help you to download audio of youtube videos.<br><br>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/H_xoYaYss3s/0.jpg)](https://www.youtube.com/watch?v=H_xoYaYss3s)
+
 How to install audio tube?
 <br>
 You can install it in 4 steps:<br><br>
