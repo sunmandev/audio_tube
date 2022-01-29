@@ -1,0 +1,72 @@
+/*Downloaded from: https://github.com/sunmandev/audio_tube/
+Created by: sunmandev 
+My website: http://sunman.epizy.com   
+*/
+*{
+    box-sizing: border-box;
+    margin:0;
+}
+body{
+    background: url(bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+html{
+    min-height: 100%;
+    min-width: 100%;
+}
+.logo{
+    text-align: center;
+    width:100%;
+}
+form{
+    margin-top: 50px;
+    text-align: center;
+}
+input[type=text]{
+padding:15px;
+max-width:500px;
+width:50%;
+border: none;
+outline: none;
+font-family: Tahoma, sans-serif;
+}
+input[type=submit]{
+    margin-left: -5px;
+    padding:15px;
+    max-width:120px;
+    width:39.026%;
+    color:#fff;
+    font-weight: bold;
+    border:none;
+    font-family: Tahoma, sans-serif;
+    background:#000;
+}
+.err{
+    background: rgba(255,255,255,0.5);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(58, 2, 2);
+    padding:3px;
+    text-align: center;
+    width:40.5%;
+}
+.copyrights-div{
+    color:#fff;
+    background: rgba(0,0,0,0.5);
+    text-align: center;
+    margin:20px 0px;
+    padding: 5px;
+}
+.copyrights-div p{
+    font-size:20px;
+    font-family: monospace;
+
+}
+.copyrights-div a{
+    color:#fff;
+
+}
