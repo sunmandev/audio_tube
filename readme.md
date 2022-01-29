@@ -13,5 +13,5 @@ more info about how to install pytube:<br>
 https://pytube.io/en/latest/user/install.html<br>
 Fourth, move the folder of the project to your php web server and enjoy it!<br>
 <br><br>
-My webstie for contacts:<br>
+My website for contacts:<br>
 http://sunman.epizy.com
