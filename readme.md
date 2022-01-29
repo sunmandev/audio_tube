@@ -1,6 +1,6 @@
 Install audio tube in 4 steps:
 <br><br>
-First, you need a web server or localhost.<br>
+First, you need a php web server or localhost.<br>
 Second, you need to install python on the server.<br>
 Third, you need to setup pytube<br>
 by one of these commands commands:<br>
