@@ -18,7 +18,7 @@ My website: http://sunman.epizy.com
 </div>
 
 <form action="" method="POST">
-    <?php include("process.php");?>
+    <?php require("process.php");?>
     <input type="text" name="url" placeholder="Enter the youtube video link" autocomplete="off">
     <input type="submit" name="Download" value="Download">
 </form>
